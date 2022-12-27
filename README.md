@@ -11,6 +11,7 @@ Un blog increíble para el curso de [Git y Github](https://github.com/Misaelfc "
 - Las personalidades múltiples de Freddy
 - Creado por increíble Platzi Team
 - Incluye ejemplos en Windows, Linux y Mac
+- Disponibles para todas las edades
 
 
 Y como una amable recordatorio **Este readme.md es un chiste**. Diseñado para ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso")
