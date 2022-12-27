@@ -9,5 +9,6 @@ Un blog increíble para el curso de [Git y Github](https://github.com/Misaelfc "
 - El verdadero amor por las buenas práticas
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy
+- Creado por increíble Platzi Team
 
 Y como una amable recordatorio **Este readme.md es un chiste**. Diseñado para ejemplo. Si llegas acá NO TE LO TOMES ENSERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso")
